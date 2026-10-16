@@ -1,5 +1,7 @@
 # Cabin Price Predictor
 
 ## Summary
+This is my project for the Building AI course. It predicts the price of a cabin based on its features.
 
-This is a simple AI project for the Building AI course that predicts cabin prices using linear regression.
+## Files
+- main.py: The Python code for the prediction.
